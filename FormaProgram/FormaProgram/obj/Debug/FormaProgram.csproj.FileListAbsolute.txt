@@ -1,0 +1,11 @@
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe.config
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\bin\Debug\FormaProgram.pdb
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.AssemblyReference.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Form1.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.FormaText.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.Properties.Resources.resources
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.GenerateResource.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.csproj.CoreCompileInputs.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\FormaProgram\FormaProgram\obj\Debug\FormaProgram.pdb
